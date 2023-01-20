@@ -1,0 +1,113 @@
+//#include <iostream>
+//using namespace std;
+///*int a = 0;
+//   int b = a;
+//   do {
+//       cout << a <<" "<< b << endl;
+//       a = a + 1;
+//       b = a + a;
+//   } while (a < 101);
+//
+//   return 0;*/
+//
+//
+//
+//
+//   //////int number;
+//
+//       //////cout << "Enter a number: ";
+//
+//       //////cin >> number;
+//
+//       //////if (number > 0 && number <= 20) {
+//
+//       //////    cout << "Valid number." << endl;
+//
+//       //////}
+//       //////else {
+//
+//
+//       //////    cout << "Invalid number." << endl;
+//
+//       //////}
+//
+//       //////return 0;
+//
+//
+//
+//
+//
+/////*int number;
+//
+//    //cout << "Enter a number: ";
+//
+//    //cin >> number;
+//
+//    //if (number > 100 || number < 30) {
+//
+//    //    cout << "Valid number." << endl;
+//
+//    //}
+//    //else {
+//
+//    //    cout << "Invalid number." << endl;
+//
+//    //}
+//
+//    //return 0;*/
+//
+//
+////for (int i = 0; i < 20; i++)
+////{
+////
+////    cout << "Glebasisa" << endl;
+////
+////
+////
+////
+////
+////}cout << "I am done" << endl;
+////
+////return 0;
+//
+////int i = 10;
+////while (i > 0) {
+////    cout << i << endl;
+////    i--;
+////}
+//
+//
+//
+//
+//
+//
+//int main()     
+//
+//{
+//    
+//    
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//    
+//
+//    
+//
+//        
+//
+//    
+//
+//
+//
+//
+//    
+//
+//}
