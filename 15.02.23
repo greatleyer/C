@@ -1,0 +1,47 @@
+//#include <iostream>
+////#include<string>
+//using namespace  std;
+//////string input;
+//int main()
+//{
+//
+//	/*while (input != "stop")
+//	{
+//		cout << "Datus:";
+//		cin >> input;
+//		cout << "Jusus dati " << input << endl;
+//		
+//	}
+//	cout << "programma ir bageigusi" << endl;
+//	return 0;*/
+//	/*string parole = "rara";
+//
+//	string ievade;
+//	int atlikuso_iespeju_skaits = 5;
+//	while (atlikuso_iespeju_skaits > 0) {
+//		cout << "Ievadiet paroli: ";
+//		cin >> ievade;
+//		if (ievade == parole) {
+//			cout << "Parole ir pareiza!" << endl;
+//			break;
+//		}
+//		else {
+//			cout << "Parole nav pareiza. Atlikuso iespeju skaits: " << atlikuso_iespeju_skaits - 1 << endl;
+//			atlikuso_iespeju_skaits--;
+//		}
+//	}
+//
+//
+//	if (atlikuso_iespeju_skaits == 0) {
+//		cout << "Atlikuso iespeju skaits ir izsmelts. Piekluve aizliegta." << endl;
+//	}
+//
+//	return 0;*/
+//	/*int a= 1000;
+//	while (a > 0) {
+//		a -= 5;
+//		cout << a << endl;
+//
+//	}
+//	return 0;*/
+//}
